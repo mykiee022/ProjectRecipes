@@ -1,2 +1,0 @@
-# ProjectRecipes
-Using only HTML
